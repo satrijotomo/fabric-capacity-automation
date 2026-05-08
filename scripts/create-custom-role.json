@@ -1,0 +1,14 @@
+{
+  "Name": "Fabric Capacity Pause Resume Operator",
+  "IsCustom": true,
+  "Description": "Can read and pause/resume Microsoft Fabric capacities.",
+  "Actions": [
+    "Microsoft.Fabric/capacities/read",
+    "Microsoft.Fabric/capacities/write",
+    "Microsoft.Fabric/capacities/suspend/action",
+    "Microsoft.Fabric/capacities/resume/action"
+  ],
+  "AssignableScopes": [
+    "/subscriptions/<your-subscription-id>"
+  ]
+}

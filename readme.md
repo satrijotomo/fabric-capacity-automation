@@ -23,9 +23,9 @@ This solution automatically pauses Microsoft Fabric capacity at a scheduled time
 ---
 
 ## 📂 Project Structure
-runbooks/pause-fabric-capacity.ps1
-scripts/create-custom-role.json
-docs/architecture.md
+- runbooks/pause-fabric-capacity.ps1
+- scripts/create-custom-role.json
+- docs/architecture.md
 
 ---
 
